@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200;700&display=swap');
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.btn{
+    @apply  w-52 py-3 px-3 uppercase font-bold rounded-sm tracking-wider;
+}
